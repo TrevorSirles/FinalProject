@@ -5,7 +5,7 @@
     <title>Landing Page</title>
   </head>
   <body>
-    <button onclick="alert('Goodbye')">Click Me!</button>
-    <span> This button says "Goodbye".</span>
+    <button onclick="alert('macaroni')">Click Me!</button>
+    <span> This button says "macaroni".</span>
   </body>
 </html>

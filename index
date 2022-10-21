@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charse"utf-8" />
+    <title>Landing Page</title>
+  </head>
+  <body>
+    <button onclick="alert('Hello')">Click Me!</button>
+    <span> This button says "Hello".</span>
+  </body>
+</html>
